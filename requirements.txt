@@ -17,10 +17,5 @@ numpy
 boto3
 psycopg2-binary
 PyPDF2
-pil
-json
-re
-base64
-matplotlib.pyplot
 streamlit-option-menu
 streamlit-extras
