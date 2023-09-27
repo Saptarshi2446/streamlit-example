@@ -1,0 +1,648 @@
+Graph Name,Graph ID,Hostname,Host Group Names
+Zabbix server: Zabbix server performance,392,Zabbix server health,Templates/Applications
+Zabbix server: Zabbix data gathering process busy %,404,Zabbix server health,Templates/Applications
+Zabbix server: Zabbix internal process busy %,406,Zabbix server health,Templates/Applications
+"Zabbix server: Zabbix cache usage, % free",410,Zabbix server health,Templates/Applications
+CPU utilization,456,OpenBSD by Zabbix agent,Templates/Operating systems
+CPU load,457,OpenBSD by Zabbix agent,Templates/Operating systems
+Swap usage,458,OpenBSD by Zabbix agent,Templates/Operating systems
+CPU jumps,459,OpenBSD by Zabbix agent,Templates/Operating systems
+CPU utilization,462,FreeBSD by Zabbix agent,Templates/Operating systems
+CPU load,463,FreeBSD by Zabbix agent,Templates/Operating systems
+Swap usage,464,FreeBSD by Zabbix agent,Templates/Operating systems
+CPU jumps,465,FreeBSD by Zabbix agent,Templates/Operating systems
+CPU load,469,AIX by Zabbix agent,Templates/Operating systems
+CPU jumps,471,AIX by Zabbix agent,Templates/Operating systems
+CPU utilization,474,HP-UX by Zabbix agent,Templates/Operating systems
+CPU load,475,HP-UX by Zabbix agent,Templates/Operating systems
+CPU utilization,480,Solaris,Templates/Operating systems
+CPU load,481,Solaris,Templates/Operating systems
+Swap usage,482,Solaris,Templates/Operating systems
+CPU jumps,483,Solaris,Templates/Operating systems
+CPU load,487,macOS,Templates/Operating systems
+Network traffic on en0,494,macOS,Templates/Operating systems
+CPU utilization,498,AIX by Zabbix agent,Templates/Operating systems
+Zabbix server: Value cache effectiveness,527,Zabbix server health,Templates/Applications
+"Zabbix proxy: Zabbix cache usage, % used",529,Zabbix proxy health,Templates/Applications
+Zabbix proxy: Zabbix data gathering process busy %,530,Zabbix proxy health,Templates/Applications
+Zabbix proxy: Zabbix internal process busy %,531,Zabbix proxy health,Templates/Applications
+Zabbix proxy: Zabbix proxy performance,532,Zabbix proxy health,Templates/Applications
+Memory usage,540,AIX by Zabbix agent,Templates/Operating systems
+Memory usage,541,FreeBSD by Zabbix agent,Templates/Operating systems
+Memory usage,542,HP-UX by Zabbix agent,Templates/Operating systems
+Memory usage,543,macOS,Templates/Operating systems
+Memory usage,544,OpenBSD by Zabbix agent,Templates/Operating systems
+Memory usage,545,Solaris,Templates/Operating systems
+Fan speed and ambient temperature,651,Intel SR1530 IPMI,Templates/Server hardware
+Voltage,652,Intel SR1530 IPMI,Templates/Server hardware
+Fan speed and temperature,653,Intel SR1630 IPMI,Templates/Server hardware
+Voltage,654,Intel SR1630 IPMI,Templates/Server hardware
+CPU utilization,668,Alcatel Timetra TiMOS SNMP,Templates/Network devices
+CPU utilization,671,Brocade FC SNMP,Templates/Network devices
+CPU utilization,675,Brocade_Foundry Performance SNMP,Templates/Modules
+CPU utilization,691,Cisco OLD-CISCO-CPU-MIB SNMP,Templates/Modules
+CPU utilization,698,D-Link DES 7200 SNMP,Templates/Network devices
+CPU utilization,701,D-Link DES_DGS Switch SNMP,Templates/Network devices
+CPU utilization,704,Extreme EXOS SNMP,Templates/Network devices
+CPU utilization,727,Netgear Fastpath SNMP,Templates/Network devices
+CPU utilization,730,QTech QSW SNMP,Templates/Network devices
+CPU utilization,736,Ubiquiti AirOS SNMP,Templates/Network devices
+CPU utilization,775,HP Enterprise Switch SNMP,Templates/Network devices
+Zabbix server: Zabbix internal queues,788,Zabbix server health,Templates/Applications
+Remote Zabbix server: Value cache effectiveness,797,Remote Zabbix server health,Templates/Applications
+"Remote Zabbix server: Zabbix cache usage, % free",798,Remote Zabbix server health,Templates/Applications
+Remote Zabbix server: Zabbix data gathering process busy %,799,Remote Zabbix server health,Templates/Applications
+Remote Zabbix server: Zabbix internal process busy %,800,Remote Zabbix server health,Templates/Applications
+Remote Zabbix server: Zabbix internal queues,801,Remote Zabbix server health,Templates/Applications
+Remote Zabbix server: Zabbix server performance,802,Remote Zabbix server health,Templates/Applications
+"Remote Zabbix proxy: Zabbix cache usage, % used",803,Remote Zabbix proxy health,Templates/Applications
+Remote Zabbix proxy: Zabbix data gathering process busy %,804,Remote Zabbix proxy health,Templates/Applications
+Remote Zabbix proxy: Zabbix internal process busy %,805,Remote Zabbix proxy health,Templates/Applications
+Remote Zabbix proxy: Zabbix proxy performance,806,Remote Zabbix proxy health,Templates/Applications
+Zabbix proxy: Zabbix internal queues,807,Zabbix proxy health,Templates/Applications
+Apache: Requests per second,838,Apache by HTTP,Templates/Applications
+Apache: Workers total,839,Apache by HTTP,Templates/Applications
+Apache: Worker states,840,Apache by HTTP,Templates/Applications
+Nginx: Connections by state,841,Nginx by Zabbix agent,Templates/Applications
+Nginx: Connections per second,842,Nginx by Zabbix agent,Templates/Applications
+Nginx: Requests per second,843,Nginx by Zabbix agent,Templates/Applications
+Nginx: Memory usage,844,Nginx by Zabbix agent,Templates/Applications
+Nginx: Connections by state,845,Nginx by HTTP,Templates/Applications
+Nginx: Connections per second,846,Nginx by HTTP,Templates/Applications
+Nginx: Requests per second,847,Nginx by HTTP,Templates/Applications
+Memory utilization,874,Linux memory SNMP,Templates/Modules
+Memory usage,876,Linux memory SNMP,Templates/Modules
+Swap usage,878,Linux memory SNMP,Templates/Modules
+System load,880,Linux CPU SNMP,Templates/Modules
+CPU jumps,882,Linux CPU SNMP,Templates/Modules
+System load,902,Linux CPU by Zabbix agent,Templates/Modules
+CPU utilization,905,Linux CPU by Zabbix agent,Templates/Modules
+CPU usage,908,Linux CPU by Zabbix agent,Templates/Modules
+CPU jumps,911,Linux CPU by Zabbix agent,Templates/Modules
+Memory utilization,914,Linux memory by Zabbix agent,Templates/Modules
+Memory usage,917,Linux memory by Zabbix agent,Templates/Modules
+Swap usage,920,Linux memory by Zabbix agent,Templates/Modules
+Processes,923,Linux generic by Zabbix agent,Templates/Modules
+System load,957,Linux by Prom,Templates/Operating systems
+CPU utilization,958,Linux by Prom,Templates/Operating systems
+CPU usage,959,Linux by Prom,Templates/Operating systems
+CPU jumps,960,Linux by Prom,Templates/Operating systems
+Memory utilization,961,Linux by Prom,Templates/Operating systems
+Memory usage,962,Linux by Prom,Templates/Operating systems
+Swap usage,963,Linux by Prom,Templates/Operating systems
+CPU utilization,972,Windows CPU by Zabbix agent,Templates/Modules
+CPU jumps,974,Windows CPU by Zabbix agent,Templates/Modules
+CPU usage,976,Windows CPU by Zabbix agent,Templates/Modules
+Memory utilization,978,Windows memory by Zabbix agent,Templates/Modules
+Swap usage,980,Windows memory by Zabbix agent,Templates/Modules
+RabbitMQ: File descriptors,1007,RabbitMQ node by Zabbix agent,Templates/Applications
+RabbitMQ: Disk free,1008,RabbitMQ node by Zabbix agent,Templates/Applications
+RabbitMQ: Memory used,1009,RabbitMQ node by Zabbix agent,Templates/Applications
+RabbitMQ: Sockets,1010,RabbitMQ node by Zabbix agent,Templates/Applications
+RabbitMQ: Node status,1011,RabbitMQ node by Zabbix agent,Templates/Applications
+RabbitMQ: Uptime,1012,RabbitMQ node by Zabbix agent,Templates/Applications
+RabbitMQ: Memory usage,1013,RabbitMQ node by Zabbix agent,Templates/Applications
+RabbitMQ: Connections,1016,RabbitMQ cluster by HTTP,Templates/Applications
+RabbitMQ: Queues,1017,RabbitMQ cluster by HTTP,Templates/Applications
+RabbitMQ: Messages,1018,RabbitMQ cluster by HTTP,Templates/Applications
+RabbitMQ: Messages status,1019,RabbitMQ cluster by HTTP,Templates/Applications
+RabbitMQ: Messages per second,1020,RabbitMQ cluster by HTTP,Templates/Applications
+RabbitMQ: File descriptors,1021,RabbitMQ node by HTTP,Templates/Applications
+RabbitMQ: Disk free,1022,RabbitMQ node by HTTP,Templates/Applications
+RabbitMQ: Memory used,1023,RabbitMQ node by HTTP,Templates/Applications
+RabbitMQ: Sockets,1024,RabbitMQ node by HTTP,Templates/Applications
+RabbitMQ: Node status,1025,RabbitMQ node by HTTP,Templates/Applications
+RabbitMQ: Uptime,1026,RabbitMQ node by HTTP,Templates/Applications
+RabbitMQ: Connections,1027,RabbitMQ cluster by Zabbix agent,Templates/Applications
+RabbitMQ: Queues,1028,RabbitMQ cluster by Zabbix agent,Templates/Applications
+RabbitMQ: Messages,1029,RabbitMQ cluster by Zabbix agent,Templates/Applications
+RabbitMQ: Messages status,1030,RabbitMQ cluster by Zabbix agent,Templates/Applications
+RabbitMQ: Messages per second,1031,RabbitMQ cluster by Zabbix agent,Templates/Applications
+Memory usage,1032,Alcatel Timetra TiMOS SNMP,Templates/Network devices
+Memory utilization,1033,Alcatel Timetra TiMOS SNMP,Templates/Network devices
+Memory utilization,1034,Brocade FC SNMP,Templates/Network devices
+Memory utilization,1035,Brocade_Foundry Performance SNMP,Templates/Modules
+Memory utilization,1053,Mikrotik SNMP,Templates/Network devices
+Memory usage,1054,Netgear Fastpath SNMP,Templates/Network devices
+Memory utilization,1055,Netgear Fastpath SNMP,Templates/Network devices
+Memory utilization,1056,QTech QSW SNMP,Templates/Network devices
+Memory utilization,1058,Ubiquiti AirOS SNMP,Templates/Network devices
+CPU utilization,1070,HOST-RESOURCES-MIB CPU SNMP,Templates/Modules
+Redis: Clients,1091,Redis by Zabbix agent 2,Templates/Databases
+Redis: Commands,1092,Redis by Zabbix agent 2,Templates/Databases
+Redis: CPU,1093,Redis by Zabbix agent 2,Templates/Databases
+Redis: Expired keys,1094,Redis by Zabbix agent 2,Templates/Databases
+Redis: Keyspace,1095,Redis by Zabbix agent 2,Templates/Databases
+Redis: Memory,1096,Redis by Zabbix agent 2,Templates/Databases
+Redis: Memory fragmentation,1097,Redis by Zabbix agent 2,Templates/Databases
+Redis: Network,1098,Redis by Zabbix agent 2,Templates/Databases
+Redis: Persistence,1099,Redis by Zabbix agent 2,Templates/Databases
+Redis: Slaves,1100,Redis by Zabbix agent 2,Templates/Databases
+Redis: Slowlog,1101,Redis by Zabbix agent 2,Templates/Databases
+Redis: Uptime,1102,Redis by Zabbix agent 2,Templates/Databases
+MySQL: Bandwidth,1109,MySQL by Zabbix agent,Templates/Databases
+MySQL: Connections,1110,MySQL by Zabbix agent,Templates/Databases
+MySQL: InnoDB buffer pool,1111,MySQL by Zabbix agent,Templates/Databases
+MySQL: Operations,1112,MySQL by Zabbix agent,Templates/Databases
+MySQL: Queries,1113,MySQL by Zabbix agent,Templates/Databases
+MySQL: Threads,1114,MySQL by Zabbix agent,Templates/Databases
+MySQL: Bandwidth,1115,MySQL by ODBC,Templates/Databases
+MySQL: Connections,1116,MySQL by ODBC,Templates/Databases
+MySQL: InnoDB buffer pool,1117,MySQL by ODBC,Templates/Databases
+MySQL: Operations,1118,MySQL by ODBC,Templates/Databases
+MySQL: Queries,1119,MySQL by ODBC,Templates/Databases
+MySQL: Threads,1120,MySQL by ODBC,Templates/Databases
+Docker: Containers,1125,Docker by Zabbix agent 2 - clone,Templates/Applications
+Docker: Goroutines,1126,Docker by Zabbix agent 2 - clone,Templates/Applications
+Docker: Images,1127,Docker by Zabbix agent 2 - clone,Templates/Applications
+Docker: Memory total,1128,Docker by Zabbix agent 2 - clone,Templates/Applications
+Docker: Size,1129,Docker by Zabbix agent 2 - clone,Templates/Applications
+Memcached: Commands,1130,Memcached by Zabbix agent 2,Templates/Applications
+Memcached: Connections,1131,Memcached by Zabbix agent 2,Templates/Applications
+Memcached: Connections rate,1132,Memcached by Zabbix agent 2,Templates/Applications
+Memcached: Keyspace,1133,Memcached by Zabbix agent 2,Templates/Applications
+Memcached: Network,1134,Memcached by Zabbix agent 2,Templates/Applications
+Memcached: Uptime,1135,Memcached by Zabbix agent 2,Templates/Applications
+MySQL: Bandwidth,1136,MySQL by Zabbix agent 2,Templates/Databases
+MySQL: Connections,1137,MySQL by Zabbix agent 2,Templates/Databases
+MySQL: InnoDB buffer pool,1138,MySQL by Zabbix agent 2,Templates/Databases
+MySQL: Operations,1139,MySQL by Zabbix agent 2,Templates/Databases
+MySQL: Queries,1140,MySQL by Zabbix agent 2,Templates/Databases
+MySQL: Threads,1141,MySQL by Zabbix agent 2,Templates/Databases
+ES: Cluster health,1148,Elasticsearch Cluster by HTTP,Templates/Applications
+ClickHouse: Current activity,1161,ClickHouse by HTTP,Templates/Databases
+ClickHouse: Current connections,1162,ClickHouse by HTTP,Templates/Databases
+ClickHouse: Distributed,1163,ClickHouse by HTTP,Templates/Databases
+ClickHouse: Insert/Merge bytes rate,1164,ClickHouse by HTTP,Templates/Databases
+ClickHouse: Insert/Merge rows rate,1165,ClickHouse by HTTP,Templates/Databases
+ClickHouse: Memory Usage,1166,ClickHouse by HTTP,Templates/Databases
+ClickHouse: Memory Utilization,1167,ClickHouse by HTTP,Templates/Databases
+ClickHouse: Queries rate,1168,ClickHouse by HTTP,Templates/Databases
+ClickHouse: Syscalls in fly,1169,ClickHouse by HTTP,Templates/Databases
+ClickHouse: Uptime,1170,ClickHouse by HTTP,Templates/Databases
+Apache: Worker states,1175,Apache by Zabbix agent,Templates/Applications
+Apache: Workers total,1176,Apache by Zabbix agent,Templates/Applications
+Etcd: File descriptors,1177,Etcd by HTTP,Templates/Applications
+Etcd: gRPC client traffic,1178,Etcd by HTTP,Templates/Applications
+Etcd: gRPC requests rate,1179,Etcd by HTTP,Templates/Applications
+Etcd: HTTP requests rate,1180,Etcd by HTTP,Templates/Applications
+Etcd: Memory usage,1181,Etcd by HTTP,Templates/Applications
+Etcd: Proposals rate,1182,Etcd by HTTP,Templates/Applications
+Etcd: Read/Write rate,1183,Etcd by HTTP,Templates/Applications
+IIS: Cache hits percentage,1184,IIS by Zabbix agent,Templates/Applications
+IIS: Cache misses,1185,IIS by Zabbix agent,Templates/Applications
+IIS: Requests rate,1186,IIS by Zabbix agent,Templates/Applications
+IIS: Cache hits percentage,1187,IIS by Zabbix agent active,Templates/Applications
+IIS: Cache misses,1188,IIS by Zabbix agent active,Templates/Applications
+IIS: Requests rate,1189,IIS by Zabbix agent active,Templates/Applications
+MSSQL: Access methods,1193,MSSQL by ODBC,Templates/Databases
+MSSQL: Auto-params,1194,MSSQL by ODBC,Templates/Databases
+MSSQL: Cache objects,1195,MSSQL by ODBC,Templates/Databases
+MSSQL: Compilations,1196,MSSQL by ODBC,Templates/Databases
+MSSQL: Database pages,1197,MSSQL by ODBC,Templates/Databases
+MSSQL: Errors,1198,MSSQL by ODBC,Templates/Databases
+MSSQL: Locks,1199,MSSQL by ODBC,Templates/Databases
+MSSQL: Logins per second and Logouts per second,1200,MSSQL by ODBC,Templates/Databases
+MSSQL: Memory/cache load,1201,MSSQL by ODBC,Templates/Databases
+MSSQL: Memory grants outstanding and pending,1202,MSSQL by ODBC,Templates/Databases
+MSSQL: Page life expectancy,1203,MSSQL by ODBC,Templates/Databases
+MSSQL: Pages,1204,MSSQL by ODBC,Templates/Databases
+MSSQL: Processes blocked,1205,MSSQL by ODBC,Templates/Databases
+MSSQL: Server memory,1206,MSSQL by ODBC,Templates/Databases
+MSSQL: Transactions,1207,MSSQL by ODBC,Templates/Databases
+MSSQL: Waits per second,1208,MSSQL by ODBC,Templates/Databases
+MSSQL: Wait times,1209,MSSQL by ODBC,Templates/Databases
+Oracle: Datafiles,1212,Oracle by ODBC,Templates/Databases
+Oracle: PGA,1213,Oracle by ODBC,Templates/Databases
+Oracle: Physical Read\Write Rate,1214,Oracle by ODBC,Templates/Databases
+"Oracle: Physical Read\Write Rate, Bytes",1215,Oracle by ODBC,Templates/Databases
+Oracle: Processes,1216,Oracle by ODBC,Templates/Databases
+Oracle: Sessions,1217,Oracle by ODBC,Templates/Databases
+Oracle: SGA Memory Usage,1218,Oracle by ODBC,Templates/Databases
+ClassLoading: Class Loader,1250,Generic Java JMX,Templates/Applications
+OperatingSystem: File Descriptors,1259,Generic Java JMX,Templates/Applications
+Threading: Threads,1260,Generic Java JMX,Templates/Applications
+PHP-FPM: Process,1262,PHP-FPM by Zabbix agent,Templates/Applications
+PHP-FPM: Queue,1263,PHP-FPM by Zabbix agent,Templates/Applications
+PHP-FPM: Process,1264,PHP-FPM by HTTP,Templates/Applications
+PHP-FPM: Queue,1265,PHP-FPM by HTTP,Templates/Applications
+Oracle: Datafiles,1268,Oracle by Zabbix agent 2,Templates/Databases
+Oracle: PGA,1269,Oracle by Zabbix agent 2,Templates/Databases
+Oracle: Physical Read\Write Rate,1270,Oracle by Zabbix agent 2,Templates/Databases
+"Oracle: Physical Read\Write Rate, Bytes",1271,Oracle by Zabbix agent 2,Templates/Databases
+Oracle: Processes,1272,Oracle by Zabbix agent 2,Templates/Databases
+Oracle: Sessions,1273,Oracle by Zabbix agent 2,Templates/Databases
+Oracle: SGA Memory Usage,1274,Oracle by Zabbix agent 2,Templates/Databases
+Asterisk: Calls stats,1275,Asterisk by HTTP,Templates/Telephony
+Asterisk: IAX peers,1276,Asterisk by HTTP,Templates/Telephony
+Asterisk: PJSIP peers,1277,Asterisk by HTTP,Templates/Telephony
+Asterisk: SIP peers,1278,Asterisk by HTTP,Templates/Telephony
+CPU jumps,1289,Linux CPU by Zabbix agent active,Templates/Modules
+CPU usage,1291,Linux CPU by Zabbix agent active,Templates/Modules
+CPU utilization,1293,Linux CPU by Zabbix agent active,Templates/Modules
+Memory usage,1295,Linux memory by Zabbix agent active,Templates/Modules
+Memory utilization,1297,Linux memory by Zabbix agent active,Templates/Modules
+Processes,1299,Linux generic by Zabbix agent active,Templates/Modules
+Swap usage,1301,Linux memory by Zabbix agent active,Templates/Modules
+System load,1303,Linux CPU by Zabbix agent active,Templates/Modules
+CPU jumps,1313,Windows CPU by Zabbix agent active,Templates/Modules
+CPU usage,1315,Windows CPU by Zabbix agent active,Templates/Modules
+CPU utilization,1317,Windows CPU by Zabbix agent active,Templates/Modules
+Memory utilization,1319,Windows memory by Zabbix agent active,Templates/Modules
+Swap usage,1321,Windows memory by Zabbix agent active,Templates/Modules
+Ceph: Cluster bandwidth,1343,Ceph by Zabbix agent 2,Templates/Applications
+Ceph: Cluster I/O,1344,Ceph by Zabbix agent 2,Templates/Applications
+Ceph: Free space,1345,Ceph by Zabbix agent 2,Templates/Applications
+Ceph: Overall OSD latency,1346,Ceph by Zabbix agent 2,Templates/Applications
+Ceph: Overall OSD utilization,1347,Ceph by Zabbix agent 2,Templates/Applications
+Squid: DNS lookup statistics,1356,Squid SNMP,Templates/Applications
+Squid: Domain name (FQDN) cache statistics,1357,Squid SNMP,Templates/Applications
+Squid: File descriptor usage,1358,Squid SNMP,Templates/Applications
+Squid: HTTP Traffic,1359,Squid SNMP,Templates/Applications
+Squid: IP address cache statistics,1360,Squid SNMP,Templates/Applications
+Squid: Memory,1361,Squid SNMP,Templates/Applications
+Squid: Objects cache statistics,1362,Squid SNMP,Templates/Applications
+Squid: Service timing statistics,1363,Squid SNMP,Templates/Applications
+PostgreSQL ping,1391,Template DB PostgreSQL,Templates/Databases
+PostgreSQL replication lag,1392,Template DB PostgreSQL,Templates/Databases
+PostgreSQL WAL,1395,Template DB PostgreSQL,Templates/Databases
+MS Exchange [Client Access Server]: Request rate,1408,Microsoft Exchange Server 2016 by Zabbix agent,Templates/Applications
+MS Exchange [Client Access Server]: Request rate,1411,Microsoft Exchange Server 2016 by Zabbix agent active,Templates/Applications
+GitLab: Database: Connection pool,1412,GitLab by HTTP,Templates/Applications
+GitLab: HTTP requests rate,1413,GitLab by HTTP,Templates/Applications
+GitLab: Redis requests rate,1414,GitLab by HTTP,Templates/Applications
+GitLab: Ruby: File descriptors,1415,GitLab by HTTP,Templates/Applications
+GitLab: Ruby: RSS memory,1416,GitLab by HTTP,Templates/Applications
+Kafka: Broker throughput,1418,Apache Kafka by JMX,Templates/Applications
+Kafka: ISR shrinks/expands rate,1419,Apache Kafka by JMX,Templates/Applications
+Kafka: Leader election rate,1420,Apache Kafka by JMX,Templates/Applications
+Kafka: Pending deletes,1421,Apache Kafka by JMX,Templates/Applications
+Kafka: Purgatory size,1422,Apache Kafka by JMX,Templates/Applications
+Kafka: Requests failed rate,1423,Apache Kafka by JMX,Templates/Applications
+Kafka: Requests performance,1424,Apache Kafka by JMX,Templates/Applications
+Kafka: Temporary memory size,1425,Apache Kafka by JMX,Templates/Applications
+Kafka: ZooKeeper connections rate,1426,Apache Kafka by JMX,Templates/Applications
+Vault: Cache rate,1430,HashiCorp Vault by HTTP,Templates/Applications
+Vault: Expiring leases,1431,HashiCorp Vault by HTTP,Templates/Applications
+Vault: K/V secret engine entries,1432,HashiCorp Vault by HTTP,Templates/Applications
+Vault: Requests rate,1433,HashiCorp Vault by HTTP,Templates/Applications
+Vault: Runtime memory,1434,HashiCorp Vault by HTTP,Templates/Applications
+Vault: Token checks,1435,HashiCorp Vault by HTTP,Templates/Applications
+Vault: Token lookup,1436,HashiCorp Vault by HTTP,Templates/Applications
+Vault: Tokens count,1437,HashiCorp Vault by HTTP,Templates/Applications
+Zookeeper: File descriptors usage,1440,Zookeeper by HTTP,Templates/Applications
+Zookeeper: Latency,1441,Zookeeper by HTTP,Templates/Applications
+Zookeeper: Nodes,1442,Zookeeper by HTTP,Templates/Applications
+Zookeeper: Packets,1443,Zookeeper by HTTP,Templates/Applications
+Remote Zabbix server: Data gathering processes,1444,Remote Zabbix server health,Templates/Applications
+Zabbix server: Data gathering processes,1445,Zabbix server health,Templates/Applications
+Client connections,1449,Apache Cassandra by JMX,Templates/Databases
+Client requests rate,1450,Apache Cassandra by JMX,Templates/Databases
+Client requests Read\Write latency,1451,Apache Cassandra by JMX,Templates/Databases
+Dropped Messages,1452,Apache Cassandra by JMX,Templates/Databases
+KeyCache Hit rate,1453,Apache Cassandra by JMX,Templates/Databases
+Nodes state,1454,Apache Cassandra by JMX,Templates/Databases
+Tables Read\Write latency,1455,Apache Cassandra by JMX,Templates/Databases
+Array: Voltage,1458,Morningstar ProStar MPPT SNMP,Templates/Network devices
+Current: Charge/Load,1459,Morningstar ProStar MPPT SNMP,Templates/Network devices
+Temperature: Ambient/Battery/Heatsink,1460,Morningstar ProStar MPPT SNMP,Templates/Network devices
+Array: Voltage,1462,Morningstar ProStar PWM SNMP,Templates/Network devices
+Current: Charge/Load,1463,Morningstar ProStar PWM SNMP,Templates/Network devices
+Temperature: Ambient/Battery/Heatsink,1464,Morningstar ProStar PWM SNMP,Templates/Network devices
+Array: Voltage,1466,Morningstar SunSaver MPPT SNMP,Templates/Network devices
+Current: Charge/Load,1467,Morningstar SunSaver MPPT SNMP,Templates/Network devices
+Temperature: Ambient/Battery/Heatsink,1468,Morningstar SunSaver MPPT SNMP,Templates/Network devices
+Current: A/C Load,1470,Morningstar SureSine SNMP,Templates/Network devices
+Temperature: Heatsink,1471,Morningstar SureSine SNMP,Templates/Network devices
+Array: Voltage,1473,Morningstar TriStar MPPT 600V SNMP,Templates/Network devices
+Battery: Current,1474,Morningstar TriStar MPPT 600V SNMP,Templates/Network devices
+Battery: Output Power (Watts),1475,Morningstar TriStar MPPT 600V SNMP,Templates/Network devices
+Temperature: Battery/Heatsink,1476,Morningstar TriStar MPPT 600V SNMP,Templates/Network devices
+Array: Voltage,1478,Morningstar TriStar MPPT SNMP,Templates/Network devices
+Battery: Current,1479,Morningstar TriStar MPPT SNMP,Templates/Network devices
+Battery: Output Power (Watts),1480,Morningstar TriStar MPPT SNMP,Templates/Network devices
+Temperature: Battery/Heatsink,1481,Morningstar TriStar MPPT SNMP,Templates/Network devices
+Temperature: Battery/Heatsink,1487,Morningstar TriStar PWM SNMP,Templates/Network devices
+Jenkins: Executors,1501,Jenkins by HTTP,Templates/Applications
+Jenkins: Queues,1502,Jenkins by HTTP,Templates/Applications
+Hikvision camera: CPU utilization,1503,Hikvision camera by HTTP,Templates/Video surveillance
+Hikvision camera: Memory,1504,Hikvision camera by HTTP,Templates/Video surveillance
+OceanStor 5300 V5: Capacity,1526,Huawei OceanStor 5300 V5 SNMP,Templates/SAN
+MongoDB: Active clients,1534,MongoDB node by Zabbix agent 2,Templates/Databases
+MongoDB: Activity,1535,MongoDB node by Zabbix agent 2,Templates/Databases
+MongoDB: Connections,1536,MongoDB node by Zabbix agent 2,Templates/Databases
+MongoDB: Cursors,1537,MongoDB node by Zabbix agent 2,Templates/Databases
+MongoDB: Documents,1538,MongoDB node by Zabbix agent 2,Templates/Databases
+MongoDB: Memory usage,1539,MongoDB node by Zabbix agent 2,Templates/Databases
+MongoDB: Network,1540,MongoDB node by Zabbix agent 2,Templates/Databases
+MongoDB: Operations,1541,MongoDB node by Zabbix agent 2,Templates/Databases
+MongoDB: Queued operations,1542,MongoDB node by Zabbix agent 2,Templates/Databases
+MongoDB cluster: Connection pool,1544,MongoDB cluster by Zabbix agent 2,Templates/Databases
+MongoDB cluster: Connections,1545,MongoDB cluster by Zabbix agent 2,Templates/Databases
+MongoDB cluster: Cursors,1546,MongoDB cluster by Zabbix agent 2,Templates/Databases
+MongoDB cluster: Network,1547,MongoDB cluster by Zabbix agent 2,Templates/Databases
+MongoDB cluster: Operations rate,1548,MongoDB cluster by Zabbix agent 2,Templates/Databases
+CPU utilization,1567,Mellanox SNMP,Templates/Network devices
+Output,1569,APC UPS SNMP,Templates/Power
+Voltage,1570,APC UPS SNMP,Templates/Power
+Cluster IOPS,1573,NetApp AFF A700 by HTTP,Templates/SAN
+Cluster latency,1574,NetApp AFF A700 by HTTP,Templates/SAN
+Cluster throughput,1575,NetApp AFF A700 by HTTP,Templates/SAN
+ClickHouse: Zookeeper exceptions rate,1576,ClickHouse by HTTP,Templates/Databases
+TiDB: File descriptors,1578,TiDB by HTTP,Templates/Databases
+TiDB: Memory usage,1579,TiDB by HTTP,Templates/Databases
+TiDB: Server query rate,1580,TiDB by HTTP,Templates/Databases
+TiKV: Scheduler priority commands rate,1581,TiDB TiKV by HTTP,Templates/Databases
+TiKV: Snapshot state count,1582,TiDB TiKV by HTTP,Templates/Databases
+Capacity of the UPS batteries,1583,APC UPS Galaxy 3500 SNMP,Templates/Power
+Output,1584,APC UPS Galaxy 3500 SNMP,Templates/Power
+Voltage,1585,APC UPS Galaxy 3500 SNMP,Templates/Power
+Capacity of the UPS batteries,1586,APC Smart-UPS 2200 RM SNMP,Templates/Power
+Output,1587,APC Smart-UPS 2200 RM SNMP,Templates/Power
+Voltage,1588,APC Smart-UPS 2200 RM SNMP,Templates/Power
+Capacity of the UPS batteries,1589,APC Smart-UPS 3000 XLM SNMP,Templates/Power
+Output,1590,APC Smart-UPS 3000 XLM SNMP,Templates/Power
+Voltage,1591,APC Smart-UPS 3000 XLM SNMP,Templates/Power
+Capacity of the UPS batteries,1592,APC Smart-UPS RT 1000 RM XL SNMP,Templates/Power
+Output,1593,APC Smart-UPS RT 1000 RM XL SNMP,Templates/Power
+Voltage,1594,APC Smart-UPS RT 1000 RM XL SNMP,Templates/Power
+Capacity of the UPS batteries,1595,APC Smart-UPS RT 1000 XL SNMP,Templates/Power
+Output,1596,APC Smart-UPS RT 1000 XL SNMP,Templates/Power
+Voltage,1597,APC Smart-UPS RT 1000 XL SNMP,Templates/Power
+Capacity of the UPS batteries,1601,APC Smart-UPS SRT 8000 SNMP,Templates/Power
+Output,1602,APC Smart-UPS SRT 8000 SNMP,Templates/Power
+Voltage,1603,APC Smart-UPS SRT 8000 SNMP,Templates/Power
+Capacity of the UPS batteries,1604,APC UPS SNMP,Templates/Power
+Capacity of the UPS batteries,1605,APC UPS Symmetra LX SNMP,Templates/Power
+Output,1606,APC UPS Symmetra LX SNMP,Templates/Power
+Voltage,1607,APC UPS Symmetra LX SNMP,Templates/Power
+Capacity of the UPS batteries,1608,APC UPS Symmetra RM SNMP,Templates/Power
+Output,1609,APC UPS Symmetra RM SNMP,Templates/Power
+Voltage,1610,APC UPS Symmetra RM SNMP,Templates/Power
+Capacity of the UPS batteries,1611,APC UPS Symmetra RX SNMP,Templates/Power
+Output,1612,APC UPS Symmetra RX SNMP,Templates/Power
+Voltage,1613,APC UPS Symmetra RX SNMP,Templates/Power
+WildFly: Transactions,1618,WildFly Server by JMX,Templates/Applications
+Capacity of the UPS batteries,1619,APC Smart-UPS SRT 5000 SNMP,Templates/Power
+Output,1620,APC Smart-UPS SRT 5000 SNMP,Templates/Power
+Voltage,1621,APC Smart-UPS SRT 5000 SNMP,Templates/Power
+Cloudflare: Bandwidth,1622,Cloudflare by HTTP,Templates/Applications
+Cloudflare: Caching,1623,Cloudflare by HTTP,Templates/Applications
+Cloudflare: DNS requests,1624,Cloudflare by HTTP,Templates/Applications
+Cloudflare: HTTP response codes over time,1625,Cloudflare by HTTP,Templates/Applications
+Cloudflare: HTTP responses ratio over time,1626,Cloudflare by HTTP,Templates/Applications
+Cloudflare: IPs and threats,1627,Cloudflare by HTTP,Templates/Applications
+Cloudflare: Web requests,1628,Cloudflare by HTTP,Templates/Applications
+Nginx: Connections,1647,Nginx Plus by HTTP,Templates/Applications
+Nginx: Requests,1648,Nginx Plus by HTTP,Templates/Applications
+Nginx: SSL,1649,Nginx Plus by HTTP,Templates/Applications
+Nginx: Uptime,1650,Nginx Plus by HTTP,Templates/Applications
+Zabbix server: Data handling processes,1651,Zabbix server health,Templates/Applications
+Zabbix server: Internal processes,1652,Zabbix server health,Templates/Applications
+Zabbix server: Reporting processes,1653,Zabbix server health,Templates/Applications
+Zabbix server: Trend function cache effectiveness,1654,Zabbix server health,Templates/Applications
+Remote Zabbix server: Data handling processes,1659,Remote Zabbix server health,Templates/Applications
+Remote Zabbix server: Internal processes,1660,Remote Zabbix server health,Templates/Applications
+Remote Zabbix server: Reporting processes,1661,Remote Zabbix server health,Templates/Applications
+Remote Zabbix server: Trend function cache effectiveness,1662,Remote Zabbix server health,Templates/Applications
+F5 BIG-IP: TCP/UDP statistics,1700,F5 Big-IP SNMP,Templates/Network devices
+ZYXEL ES3500-8PD: CPU utilization,1711,ZYXEL ES3500-8PD SNMP,Templates/Network devices
+ZYXEL GS-4012F: CPU utilization,1718,ZYXEL GS-4012F SNMP,Templates/Network devices
+ZYXEL MES-3528: CPU utilization,1750,ZYXEL MES-3528 SNMP,Templates/Network devices
+ZYXEL MES3500-10: CPU utilization,1757,ZYXEL MES3500-10 SNMP,Templates/Network devices
+ZYXEL MES3500-24: CPU utilization,1764,ZYXEL MES3500-24 SNMP,Templates/Network devices
+ZYXEL MGS-3712: CPU utilization,1772,ZYXEL MGS-3712 SNMP,Templates/Network devices
+ZYXEL MGS-3712F: CPU utilization,1780,ZYXEL MGS-3712F SNMP,Templates/Network devices
+CPU utilization,2120,HOST-RESOURCES-MIB SNMP,Templates/Modules
+ZYXEL MES3500-24S: CPU utilization,1788,ZYXEL MES3500-24S SNMP,Templates/Network devices
+ZYXEL MGS3520-28x: CPU utilization,1796,ZYXEL MGS3520-28x SNMP,Templates/Network devices
+ZYXEL XGS-4728F: CPU utilization,1804,ZYXEL XGS-4728F SNMP,Templates/Network devices
+InfluxDB: Tasks runs,1809,InfluxDB by HTTP,Templates/Applications
+Memory utilization,1814,MikroTik CCR1009-7G-1C-1S+PC SNMP,Templates/Network devices
+Memory utilization,1819,MikroTik CCR1009-7G-1C-1S+ SNMP,Templates/Network devices
+Memory utilization,1824,MikroTik CCR1009-7G-1C-PC SNMP,Templates/Network devices
+Memory utilization,1829,MikroTik CCR1016-12G SNMP,Templates/Network devices
+Memory utilization,1834,MikroTik CCR1016-12S-1S+ SNMP,Templates/Network devices
+Memory utilization,1839,MikroTik CCR1036-12G-4S-EM SNMP,Templates/Network devices
+Memory utilization,1844,MikroTik CCR1036-12G-4S SNMP,Templates/Network devices
+Memory utilization,1849,MikroTik CCR1036-8G-2S+EM SNMP,Templates/Network devices
+Memory utilization,1854,MikroTik CCR1036-8G-2S+ SNMP,Templates/Network devices
+Memory utilization,1859,MikroTik CCR1072-1G-8S+ SNMP,Templates/Network devices
+Memory utilization,1864,MikroTik CCR2004-16G-2S+ SNMP,Templates/Network devices
+Memory utilization,1869,MikroTik CCR2004-1G-12S+2XS SNMP,Templates/Network devices
+Memory utilization,1874,MikroTik CRS106-1C-5S SNMP,Templates/Network devices
+Memory utilization,1879,MikroTik CRS109-8G-1S-2HnD-IN SNMP,Templates/Network devices
+Memory utilization,1884,MikroTik CRS112-8G-4S-IN SNMP,Templates/Network devices
+Memory utilization,1889,MikroTik CRS112-8P-4S-IN SNMP,Templates/Network devices
+Memory utilization,1894,MikroTik CRS125-24G-1S-2HnD-IN SNMP,Templates/Network devices
+Memory utilization,1899,MikroTik CRS212-1G-10S-1S+IN SNMP,Templates/Network devices
+Memory utilization,1904,MikroTik CRS305-1G-4S+IN SNMP,Templates/Network devices
+Memory utilization,1909,MikroTik CRS309-1G-8S+IN SNMP,Templates/Network devices
+Memory utilization,1914,MikroTik CRS312-4C+8XG-RM SNMP,Templates/Network devices
+Memory utilization,1919,MikroTik CRS317-1G-16S+RM SNMP,Templates/Network devices
+Memory utilization,1924,MikroTik CRS326-24G-2S+IN SNMP,Templates/Network devices
+Memory utilization,1929,MikroTik CRS326-24G-2S+RM SNMP,Templates/Network devices
+Memory utilization,1934,MikroTik CRS326-24S+2Q+RM SNMP,Templates/Network devices
+Memory utilization,1939,MikroTik CRS328-24P-4S+RM SNMP,Templates/Network devices
+Memory utilization,1944,MikroTik CRS328-4C-20S-4S+RM SNMP,Templates/Network devices
+Memory utilization,1949,MikroTik CRS354-48G-4S+2Q+RM SNMP,Templates/Network devices
+Memory utilization,1954,MikroTik CRS354-48P-4S+2Q+RM SNMP,Templates/Network devices
+Memory utilization,1959,MikroTik CSS326-24G-2S+RM SNMP,Templates/Network devices
+Memory utilization,1964,MikroTik CSS610-8G-2S+IN SNMP,Templates/Network devices
+Memory utilization,1969,MikroTik FiberBox SNMP,Templates/Network devices
+Memory utilization,1974,MikroTik PowerBox Pro SNMP,Templates/Network devices
+Memory utilization,1979,MikroTik PowerBox SNMP,Templates/Network devices
+Memory utilization,1984,MikroTik RB1100AHx4 Dude Edition SNMP,Templates/Network devices
+Memory utilization,1989,MikroTik RB1100AHx4 SNMP,Templates/Network devices
+Memory utilization,1994,MikroTik RB2011UiAS-IN SNMP,Templates/Network devices
+Memory utilization,1999,MikroTik RB2011UiAS-RM SNMP,Templates/Network devices
+Memory utilization,2004,MikroTik RB2011iL-IN SNMP,Templates/Network devices
+Memory utilization,2009,MikroTik RB2011iL-RM SNMP,Templates/Network devices
+Memory utilization,2014,MikroTik RB2011iLS-IN SNMP,Templates/Network devices
+Memory utilization,2019,MikroTik RB260GSP SNMP,Templates/Network devices
+Memory utilization,2024,MikroTik RB260GS SNMP,Templates/Network devices
+Memory utilization,2029,MikroTik RB3011UiAS-RM SNMP,Templates/Network devices
+Memory utilization,2034,MikroTik RB4011iGS+RM SNMP,Templates/Network devices
+Memory utilization,2039,MikroTik RB5009UG+S+IN SNMP,Templates/Network devices
+Memory utilization,2044,MikroTik hEX PoE lite SNMP,Templates/Network devices
+Memory utilization,2049,MikroTik hEX PoE SNMP,Templates/Network devices
+Memory utilization,2054,MikroTik hEX S SNMP,Templates/Network devices
+Memory utilization,2059,MikroTik hEX lite SNMP,Templates/Network devices
+Memory utilization,2064,MikroTik hEX SNMP,Templates/Network devices
+Memory utilization,2069,MikroTik netPower 15FR SNMP,Templates/Network devices
+Memory utilization,2074,MikroTik netPower 16P SNMP,Templates/Network devices
+Memory utilization,2079,MikroTik netPower Lite 7R SNMP,Templates/Network devices
+Kubernetes API: HTTP requests rate,2086,Kubernetes API server by HTTP,Templates/Applications
+Kubernetes Controller Manager: Memory usage,2090,Kubernetes Controller manager by HTTP,Templates/Applications
+Kubernetes Controller Manager: REST Client query rate,2091,Kubernetes Controller manager by HTTP,Templates/Applications
+Kubernetes Scheduler: Memory usage,2096,Kubernetes Scheduler by HTTP,Templates/Applications
+Kubernetes Scheduler: REST Client query rate,2097,Kubernetes Scheduler by HTTP,Templates/Applications
+Kubernetes Scheduler: Scheduling attempts rate,2099,Kubernetes Scheduler by HTTP,Templates/Applications
+PFSense: CPU jumps,2107,PFSense SNMP,Templates/Applications
+PFSense: Memory usage,2108,PFSense SNMP,Templates/Applications
+PFSense: Memory utilization,2109,PFSense SNMP,Templates/Applications
+PFSense: Packet filter reason codes,2110,PFSense SNMP,Templates/Applications
+PFSense: Swap usage,2111,PFSense SNMP,Templates/Applications
+PFSense: System load,2112,PFSense SNMP,Templates/Applications
+Remote Zabbix proxy: Zabbix internal queues,2113,Remote Zabbix proxy health,Templates/Applications
+CPU utilization,2127,Arista SNMP,Templates/Network devices
+CPU utilization,2131,Brocade_Foundry Nonstackable SNMP,Templates/Network devices
+CPU utilization,2132,Brocade_Foundry Stackable SNMP,Templates/Network devices
+Memory utilization,2133,Brocade_Foundry Nonstackable SNMP,Templates/Network devices
+Memory utilization,2134,Brocade_Foundry Stackable SNMP,Templates/Network devices
+CPU utilization,2142,Cisco IOS prior to 12.0_3_T SNMP,Templates/Network devices
+CPU jumps,2222,Linux by Zabbix agent,Templates/Operating systems
+CPU usage,2223,Linux by Zabbix agent,Templates/Operating systems
+Memory usage,2225,Linux by Zabbix agent,Templates/Operating systems
+Memory utilization,2226,Linux by Zabbix agent,Templates/Operating systems
+Processes,2227,Linux by Zabbix agent,Templates/Operating systems
+Swap usage,2228,Linux by Zabbix agent,Templates/Operating systems
+System load,2229,Linux by Zabbix agent,Templates/Operating systems
+CPU jumps,2243,Linux by Zabbix agent active,Templates/Operating systems
+CPU usage,2244,Linux by Zabbix agent active,Templates/Operating systems
+CPU utilization,2245,Linux by Zabbix agent active,Templates/Operating systems
+Memory usage,2246,Linux by Zabbix agent active,Templates/Operating systems
+Memory utilization,2247,Linux by Zabbix agent active,Templates/Operating systems
+Processes,2248,Linux by Zabbix agent active,Templates/Operating systems
+Swap usage,2249,Linux by Zabbix agent active,Templates/Operating systems
+System load,2250,Linux by Zabbix agent active,Templates/Operating systems
+CPU jumps,2256,Linux SNMP,Templates/Operating systems
+Memory usage,2257,Linux SNMP,Templates/Operating systems
+Memory utilization,2258,Linux SNMP,Templates/Operating systems
+Swap usage,2259,Linux SNMP,Templates/Operating systems
+System load,2260,Linux SNMP,Templates/Operating systems
+CPU jumps,2267,Windows by Zabbix agent,Templates/Operating systems
+CPU usage,2268,Windows by Zabbix agent,Templates/Operating systems
+CPU utilization,2269,Windows by Zabbix agent,Templates/Operating systems
+Memory utilization,2270,Windows by Zabbix agent,Templates/Operating systems
+Swap usage,2271,Windows by Zabbix agent,Templates/Operating systems
+CPU jumps,2278,Windows by Zabbix agent active,Templates/Operating systems
+CPU usage,2279,Windows by Zabbix agent active,Templates/Operating systems
+CPU utilization,2280,Windows by Zabbix agent active,Templates/Operating systems
+Memory utilization,2281,Windows by Zabbix agent active,Templates/Operating systems
+Swap usage,2282,Windows by Zabbix agent active,Templates/Operating systems
+CPU utilization,2286,Windows SNMP,Templates/Operating systems
+TrueNAS: ARC hit ratio,2319,TrueNAS SNMP,Templates/Applications
+TrueNAS: CPU jumps,2320,TrueNAS SNMP,Templates/Applications
+TrueNAS: Memory usage,2321,TrueNAS SNMP,Templates/Applications
+TrueNAS: Memory utilization,2322,TrueNAS SNMP,Templates/Applications
+TrueNAS: Swap usage,2323,TrueNAS SNMP,Templates/Applications
+TrueNAS: System load,2324,TrueNAS SNMP,Templates/Applications
+Zabbix server: Zabbix server performance,2838,Zabbix-Server-Active,"Zabbix servers, Demo"
+Zabbix server: Zabbix data gathering process busy %,2839,Zabbix-Server-Active,"Zabbix servers, Demo"
+Zabbix server: Zabbix internal process busy %,2840,Zabbix-Server-Active,"Zabbix servers, Demo"
+"Zabbix server: Zabbix cache usage, % free",2841,Zabbix-Server-Active,"Zabbix servers, Demo"
+CPU jumps,2801,Docker server,"Linux servers, Demo"
+CPU usage,2802,Docker server,"Linux servers, Demo"
+Memory usage,2804,Docker server,"Linux servers, Demo"
+Memory utilization,2805,Docker server,"Linux servers, Demo"
+Processes,2806,Docker server,"Linux servers, Demo"
+Swap usage,2807,Docker server,"Linux servers, Demo"
+System load,2808,Docker server,"Linux servers, Demo"
+Zabbix server: Value cache effectiveness,2842,Zabbix-Server-Active,"Zabbix servers, Demo"
+Zabbix server: Zabbix internal queues,2843,Zabbix-Server-Active,"Zabbix servers, Demo"
+Zabbix server: Data gathering processes,2844,Zabbix-Server-Active,"Zabbix servers, Demo"
+Zabbix server: Data handling processes,2845,Zabbix-Server-Active,"Zabbix servers, Demo"
+Zabbix server: Internal processes,2846,Zabbix-Server-Active,"Zabbix servers, Demo"
+Zabbix server: Reporting processes,2847,Zabbix-Server-Active,"Zabbix servers, Demo"
+Zabbix server: Trend function cache effectiveness,2848,Zabbix-Server-Active,"Zabbix servers, Demo"
+/: Disk space usage,2830,Docker server,"Linux servers, Demo"
+xvda: Disk average waiting time,2827,Docker server,"Linux servers, Demo"
+xvda: Disk read/write rates,2828,Docker server,"Linux servers, Demo"
+xvda: Disk utilization and queue,2829,Docker server,"Linux servers, Demo"
+Paramaah Website : Response Code,3049,Zabbix-Server-Standby,"Zabbix servers, Demo, Windows Group, test"
+Apache: Worker states,2690,Apache,Linux Group
+Apache: Workers total,2691,Apache,Linux Group
+Nginx: Connections by state,2696,NGINX,Demo
+Nginx: Connections per second,2697,NGINX,Demo
+Nginx: Requests per second,2698,NGINX,Demo
+Nginx: Memory usage,2699,NGINX,Demo
+MySQL: Bandwidth,2700,Mysql,"Templates/Databases, Windows Group"
+MySQL: Connections,2701,Mysql,"Templates/Databases, Windows Group"
+MySQL: InnoDB buffer pool,2702,Mysql,"Templates/Databases, Windows Group"
+MySQL: Operations,2703,Mysql,"Templates/Databases, Windows Group"
+MySQL: Queries,2704,Mysql,"Templates/Databases, Windows Group"
+MySQL: Threads,2705,Mysql,"Templates/Databases, Windows Group"
+Apache: Requests per second,2689,Apache,Linux Group
+CPU utilization,2803,Docker server,"Linux servers, Demo"
+CPU jumps,3153,Linux Server SNMP,Linux SNMP Servers
+Memory usage,3154,Linux Server SNMP,Linux SNMP Servers
+Memory utilization,3155,Linux Server SNMP,Linux SNMP Servers
+Swap usage,3156,Linux Server SNMP,Linux SNMP Servers
+System load,3157,Linux Server SNMP,Linux SNMP Servers
+CPU usage,3158,Linux Server SNMP,Linux SNMP Servers
+CPU utilization,3159,Linux Server SNMP,Linux SNMP Servers
+xvda: Disk read/write rates,3160,Linux Server SNMP,Linux SNMP Servers
+xvda1: Disk read/write rates,3161,Linux Server SNMP,Linux SNMP Servers
+/: Disk space usage,3162,Linux Server SNMP,Linux SNMP Servers
+Interface lo(): Network traffic,3163,Linux Server SNMP,Linux SNMP Servers
+Interface eth0(): Network traffic,3164,Linux Server SNMP,Linux SNMP Servers
+"Zabbix proxy: Zabbix cache usage, % used",3165,grafana-server,"Linux servers, Demo"
+Zabbix proxy: Zabbix data gathering process busy %,3166,grafana-server,"Linux servers, Demo"
+Zabbix proxy: Zabbix internal process busy %,3167,grafana-server,"Linux servers, Demo"
+Zabbix proxy: Zabbix proxy performance,3168,grafana-server,"Linux servers, Demo"
+Zabbix proxy: Zabbix internal queues,3169,grafana-server,"Linux servers, Demo"
+Active VPN tunnels (IPsec and SSL),3211,Template Net Fortinet FortiGate SNMP,Templates/Network devices
+CPU usage,3212,Template Net Fortinet FortiGate SNMP,Templates/Network devices
+Hard Disk Usage,3213,Template Net Fortinet FortiGate SNMP,Templates/Network devices
+ICMP response time,3214,Template Net Fortinet FortiGate SNMP,Templates/Network devices
+IPS Metrics,3215,Template Net Fortinet FortiGate SNMP,Templates/Network devices
+IPv4 Concurrent Connections,3216,Template Net Fortinet FortiGate SNMP,Templates/Network devices
+Memory usage,3217,Template Net Fortinet FortiGate SNMP,Templates/Network devices
+MSSQL: Access methods,3222,MSSQL,Templates/Databases
+MSSQL: Auto-params,3223,MSSQL,Templates/Databases
+MSSQL: Cache objects,3224,MSSQL,Templates/Databases
+MSSQL: Compilations,3225,MSSQL,Templates/Databases
+MSSQL: Database pages,3226,MSSQL,Templates/Databases
+MSSQL: Errors,3227,MSSQL,Templates/Databases
+MSSQL: Locks,3228,MSSQL,Templates/Databases
+MSSQL: Logins per second and Logouts per second,3229,MSSQL,Templates/Databases
+MSSQL: Memory/cache load,3230,MSSQL,Templates/Databases
+MSSQL: Memory grants outstanding and pending,3231,MSSQL,Templates/Databases
+MSSQL: Page life expectancy,3232,MSSQL,Templates/Databases
+MSSQL: Pages,3233,MSSQL,Templates/Databases
+MSSQL: Processes blocked,3234,MSSQL,Templates/Databases
+MSSQL: Server memory,3235,MSSQL,Templates/Databases
+MSSQL: Transactions,3236,MSSQL,Templates/Databases
+MSSQL: Waits per second,3237,MSSQL,Templates/Databases
+MSSQL: Wait times,3238,MSSQL,Templates/Databases
+PostgreSQL ping,3289,RDS postgres,Templates/Databases
+PostgreSQL replication lag,3290,RDS postgres,Templates/Databases
+PostgreSQL WAL,3293,RDS postgres,Templates/Databases
+DB rdsadmin: Block hit/read,3294,RDS postgres,Templates/Databases
+DB rdsadmin: Database size,3295,RDS postgres,Templates/Databases
+DB rdsadmin: Events,3296,RDS postgres,Templates/Databases
+DB rdsadmin: Locks,3297,RDS postgres,Templates/Databases
+DB rdsadmin: Queries,3298,RDS postgres,Templates/Databases
+DB rdsadmin: Slow queries,3299,RDS postgres,Templates/Databases
+DB rdsadmin: Temp files,3300,RDS postgres,Templates/Databases
+DB rdsadmin: Tuples,3301,RDS postgres,Templates/Databases
+NTP accuracy information,3729,NTP,HomeRackUserGroupTemplates
+NTP accuracy information [{$NTP_IP}],3730,NTP[Remote],HomeRackUserGroupTemplates
+MSSQL: Access methods,3310,RDSMSSQL,Templates/Databases
+MSSQL: Auto-params,3311,RDSMSSQL,Templates/Databases
+MSSQL: Cache objects,3312,RDSMSSQL,Templates/Databases
+MSSQL: Compilations,3313,RDSMSSQL,Templates/Databases
+MSSQL: Database pages,3314,RDSMSSQL,Templates/Databases
+MSSQL: Errors,3315,RDSMSSQL,Templates/Databases
+MSSQL: Locks,3316,RDSMSSQL,Templates/Databases
+MSSQL: Logins per second and Logouts per second,3317,RDSMSSQL,Templates/Databases
+MSSQL: Memory/cache load,3318,RDSMSSQL,Templates/Databases
+MSSQL: Memory grants outstanding and pending,3319,RDSMSSQL,Templates/Databases
+MSSQL: Page life expectancy,3320,RDSMSSQL,Templates/Databases
+MSSQL: Pages,3321,RDSMSSQL,Templates/Databases
+MSSQL: Processes blocked,3322,RDSMSSQL,Templates/Databases
+MSSQL: Server memory,3323,RDSMSSQL,Templates/Databases
+MSSQL: Transactions,3324,RDSMSSQL,Templates/Databases
+MSSQL: Waits per second,3325,RDSMSSQL,Templates/Databases
+MSSQL: Wait times,3326,RDSMSSQL,Templates/Databases
+MSSQL DB 'rdsadmin': Log size,3327,RDSMSSQL,Templates/Databases
+MSSQL DB 'rdsadmin': Size,3328,RDSMSSQL,Templates/Databases
+MSSQL DB 'rdsadmin': Number of Log changes,3329,RDSMSSQL,Templates/Databases
+Jenkins: Executors,3334,Jenkins,Templates/Applications
+Jenkins: Queues,3335,Jenkins,Templates/Applications
+Jenkins: Computer [Built-In Node]: Physical memory,3336,Jenkins,Templates/Applications
+Jenkins: Computer [Built-In Node]: Swap space,3337,Jenkins,Templates/Applications
+NTP accuracy information [{$NTP_IP}],3752,NTP[Remote]-2,HomeRackUserGroupTemplates
+NTP accuracy information,3754,NTP Server,NTP
+Evaluate CPU Utilization,3791,Calculated and Aggregate items,"Demo, vns3"
