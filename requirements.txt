@@ -17,8 +17,6 @@ numpy
 boto3
 psycopg2-binary
 PyPDF2
-yaml
-yaml.loader
 pil
 json
 re
